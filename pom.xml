@@ -3,7 +3,7 @@
 
   <groupId>apsrtc.in.gov</groupId>
   <artifactId>apsrtc</artifactId>
-  <version>3.3-SNAPSHOT</version>
+  <version>3.6</version>
   <packaging>jar</packaging>
 
   <name>apsrtc</name>

@@ -3,7 +3,7 @@
 
   <groupId>apsrtc.in.gov</groupId>
   <artifactId>apsrtc</artifactId>
-  <version>3.1</version>
+  <version>3.3-SNAPSHOT</version>
   <packaging>jar</packaging>
 
   <name>apsrtc</name>
@@ -14,7 +14,7 @@
     <url>https://github.com/veeru786/apsrtc.git</url>
     
   
-    <tag>3.2</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <properties>
